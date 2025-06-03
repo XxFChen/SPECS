@@ -107,10 +107,9 @@ ShareGPT4V
 │   │   ├── images
 ├── ...
 ```
-Then, change the data root in `sharegpt4v.py`
 
-ShareGPT4V dataset contains 1M (image, long caption) pairs. The short caption used in Primary Component Matching can be obtained by truncating the first sentence of ShareGPT4V since it's usually a summary caption like 'The image showcases ......'. This simple strategy has worked quite well. 
-Or, if you want to further improve the quality, you could use a LLM to summarize the long captions and rewrite `sharegpt4v.py`.
+
+When download the ShareGPT4V dataset then use /SPECS/data/create_sharegpt4v.py to preprocess the dataset.
 
 
 #### Test Dataset
