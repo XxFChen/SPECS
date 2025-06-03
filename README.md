@@ -1,6 +1,10 @@
 # SPECS
 SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation
 
+<p align="center"> <a>  
+<img src="./images/Fig1.jpg"  width="900" />
+</a> </p>
+
 **SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation**\
 [Xiaofu Chen](https://xxfchen.github.io/XiaofuChen/), [Israfel Salazar](https://israfelsr.github.io/), [Yova Kementchedjhieva](https://yovakem.github.io/)
 
