@@ -1,0 +1,51 @@
+# Large datasets
+evaluation/extrinsic/classification/cifar/data/
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model checkpoints (if very large)
+checkpoints/*.pt
+checkpoints/*.pth
+checkpoints/*.bin
+
+# Large model files (>50MB)
+*.safetensors
+*.h5
+*.pkl
+*.npy
+*.npz
+
+# Large data files
+*.zip
+*.rar
+*.7z
+data/
+datasets/
+*.csv
+*.json
+*.jsonl
+
+# Temporary files
+*.tmp
+*.bak 
