@@ -2,7 +2,7 @@
 SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation
 
 <p align="center"> <a>  
-<img src="./images/Fig1.jpg"  width="900" />
+<img src="./images/Fig1.jpg"  width="500" />
 </a> </p>
 
 **SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation**\
