@@ -160,9 +160,9 @@ python specs \
 ```shell
 bash /SPECS/train/run_spec.sh
 ```
-
+<!-- 
 ## Citation
 If you find our work helpful for your research, please consider giving a citation:
 ```
 
-```
+``` -->
