@@ -40,8 +40,6 @@ checkpoints/*.bin
 *.zip
 *.rar
 *.7z
-data/
-datasets/
 *.csv
 *.json
 *.jsonl
